@@ -19,16 +19,6 @@ Aplikasi mobile Product Management ini dibuat menggunakan **Flutter** dengan **G
 * **NestJS**: Backend API untuk CRUD.
 * **MySQL**: Database untuk menyimpan data produk.
 
-## Struktur Proyek
-
-```
-/lib
-  /controllers    # Controller untuk GetX
-  /models         # Model data produk
-  /views          # Halaman UI Flutter
-  /services       # Service API untuk CRUD
-```
-
 ## Instalasi
 
 1. Clone repository ini
