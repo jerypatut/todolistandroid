@@ -1,0 +1,31 @@
+# Flutter build files
+/build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Android
+/android/.gradle/
+/android/app/build/
+/android/build/
+/android/local.properties
+
+# iOS
+/ios/Pods/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Runner.xcworkspace
+/ios/Runner/GeneratedPluginRegistrant.*
+
+# Misc
+*.log
+*.iml
+*.DS_Store
