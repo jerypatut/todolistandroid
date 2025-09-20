@@ -24,7 +24,7 @@ Aplikasi mobile Product Management ini dibuat menggunakan **Flutter** dengan **G
 1. Clone repository ini
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/jerypatut/yeremias_p_sugandri_FE
 ```
 
 2. Install dependencies Flutter
