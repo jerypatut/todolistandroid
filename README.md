@@ -70,7 +70,7 @@ Proyek ini bersifat **open-source** dan dapat digunakan sebagai referensi belaja
 ## Tampilan Aplikasi
 
 ### 1. List Barang
-![List Barang](list barnag.png)
+![List Barang](lisybarang.png)
 *Gambar 1. Menampilkan semua barang yang tersedia*
 
 ### 2. Tambah Barang
